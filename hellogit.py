@@ -1,2 +1,2 @@
-print ("new Hello Git")
+print ("Hello Github")
 print ("Que tal el curso")
